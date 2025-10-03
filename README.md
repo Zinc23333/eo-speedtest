@@ -15,4 +15,4 @@ edgeone pages deploy -n speedtest
 
 ## 许可证
 
-本项目基于 LibreSpeed，遵循其开源许可证。
+本项目基于 [LibreSpeed](https://github.com/librespeed/speedtest)，遵循其开源许可证。
